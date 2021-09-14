@@ -1,9 +1,11 @@
 # Summer Olympic Data Analysis
 
-# ABOUT THE PROJECT:
+## ABOUT THE PROJECT:
 This is a Data Analysis project done using Pandas. The raw data of summer olympics are taken and some questions are answered to get an overall analysis of the games and also plotted a graph for better visual understanding.
 
-# The Assignment was given by Elite Techno group. The following are the questions given to me on which i have to give an analysis of the game:
+## PROBLEM STATEMENT:
+The Assignment was given by Elite Techno group. A set of questions and also the dataset was provided,in return i have to perform the analysis and answer the following questions:
+
 1. In how many cities Summer Olympics is held so far?
 2. Which sport is having most number of Gold Medals so far? (Top 5)
 3. Which sport is having most number of medals so far? (Top 5)
